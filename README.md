@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @BarkinCinar
-- 👀 I’m interested in movies and tv series
-- 🌱 I’m currently learning JAVA
 - 📫 How to reach me barkin.cinar@ug.bilkent.edu.tr
-- I'm a freshman in bilkent computer science
+
